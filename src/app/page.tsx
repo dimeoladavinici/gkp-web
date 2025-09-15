@@ -1,7 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import { Instagram } from "lucide-react";
+// import { Instagram } from "lucide-react";
 import { Testimonios } from "@/components/Testimonios";
 import { FormularioCotizacion } from "@/components/FormularioCotizacion";
 import { BotonWhatsapp } from "@/components/BotonWhatsapp";
